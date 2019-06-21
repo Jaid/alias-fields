@@ -4,6 +4,6 @@ const indexModule = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.jo
 const {default: aliasFields} = indexModule
 
 it("should run", () => {
-  const result = aliasFields()
-  expect(result).toBeGreaterThan(1549410770)
+  expect(aliasFields({a: 2})).toStrictEqual({a: 2})
+  expect(aliasFields({b: 2}, {a: "b"})).toStrictEqual({a: 2})
 })
