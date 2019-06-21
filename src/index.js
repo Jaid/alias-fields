@@ -17,7 +17,6 @@ export default (object = {}, aliasMap = {}) => {
   return immer(object, draft => {
     for (const [realKey, aliasKeys] of Object.entries(aliasMap)) {
       for (const aliasKey of aliasKeys |> ensureArray) {
-        console.log(aliasKey)
         if (draft.hasOwnProperty(aliasKey)) {
           draft[realKey] = draft[aliasKey]
           delete draft[aliasKey]
