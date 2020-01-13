@@ -33,5 +33,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "alias-fields",
-  "description": "Normalizes an object's keys based on given alias map."
+  "description": "Normalizes an object's keys based on given alias map.",
+  "funding": "https://github.com/sponsors/jaid"
 }
