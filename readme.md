@@ -1,9 +1,9 @@
 # alias-fields
 
 
-<a href="https://raw.githubusercontent.com/Jaid/alias-fields/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/alias-fields?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/alias-fields/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Falias-fields%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/alias-fields/commits"><img src="https://img.shields.io/github/commits-since/Jaid/alias-fields/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/Jaid/alias-fields/commits"><img src="https://img.shields.io/github/last-commit/Jaid/alias-fields?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/alias-fields/issues"><img src="https://img.shields.io/github/issues/Jaid/alias-fields?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/alias-fields"><img src="https://img.shields.io/npm/v/alias-fields?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/alias-fields/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/alias-fields?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/alias-fields"><img src="https://img.shields.io/npm/dm/alias-fields?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/alias-fields/master/license.txt"><img src="https://img.shields.io/github/license/jaid/alias-fields?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor alias-fields"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/alias-fields/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Falias-fields%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/alias-fields/commits"><img src="https://img.shields.io/github/commits-since/jaid/alias-fields/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/jaid/alias-fields/commits"><img src="https://img.shields.io/github/last-commit/jaid/alias-fields?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/alias-fields/issues"><img src="https://img.shields.io/github/issues/jaid/alias-fields?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/alias-fields"><img src="https://img.shields.io/npm/v/alias-fields?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/alias-fields/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/alias-fields?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/alias-fields"><img src="https://img.shields.io/npm/dm/alias-fields?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Normalizes an object's keys based on given alias map.**
 
@@ -41,14 +41,13 @@ yarn add alias-fields@^1.0.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/alias-fields.git
+git clone git@github.com:jaid/alias-fields.git
 cd alias-fields
 npm install
 ```
