@@ -39,5 +39,16 @@
     "url": "https://github.com/jaid/alias-fields"
   },
   "homepage": "https://github.com/Jaid/alias-fields",
-  "keywords": []
+  "keywords": [
+    "alias",
+    "alias-fields",
+    "javascript",
+    "library",
+    "node",
+    "object",
+    "object-fields",
+    "typescript",
+    "util",
+    "utility"
+  ]
 }
