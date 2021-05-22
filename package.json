@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "dependencies": {
-    "immer": "^6.0.3",
+    "immer": "^8.0.1",
     "magina": "^1.1.0"
   },
   "devDependencies": {
