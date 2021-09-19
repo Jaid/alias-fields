@@ -50,5 +50,6 @@
     "typescript",
     "util",
     "utility"
-  ]
+  ],
+  "type": "module"
 }
